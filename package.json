@@ -1,0 +1,19 @@
+{
+  "name": "twitter_bot",
+  "version": "1.0.0",
+  "description": "A twitter bot that recommends books!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Shreerang Patwardhan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "twit": "^2.2.11"
+  },
+  "engines": {
+    "node": "10.x"
+  }
+}

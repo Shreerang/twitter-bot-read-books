@@ -1,0 +1,43 @@
+{
+	"book1": {
+		"name": "The Dressmaker's Gift",
+		"url": "https://amzn.to/30fyBST"
+	},
+	"book2": {
+		"name": "Talking to Strangers",
+		"url": "https://amzn.to/2VgaP3m"
+	},
+	"book3": {
+		"name": "Spring House",
+		"url": "https://amzn.to/31U51ic"
+	},
+	"book4": {
+		"name": "The Handmaid's Tale",
+		"url": "https://amzn.to/2V9exLX"
+	},
+	"book5": {
+		"name": "The Vine Witch",
+		"url": "https://amzn.to/2QjGamK"
+	},
+	"book6": {
+		"name": "Five Point Someone",
+		"url": "https://amzn.to/2LJHvit",
+		"read": true
+	},
+	"book7": {
+		"name": "Born a Crime: Stories from a South African Childhood",
+		"url": "https://amzn.to/30Lr5KV"
+	},
+	"book8": {
+		"name": "The 5 Love Languages",
+		"url": "https://amzn.to/2M6rr9z"
+	},
+	"book9": {
+		"name": "Drowning with Others",
+		"url": "https://amzn.to/31JDe3Z"
+	},
+	"book10": {
+		"name": "What If?",
+		"url": "https://amzn.to/2QjK3Im"
+	}
+}
